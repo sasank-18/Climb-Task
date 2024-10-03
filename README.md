@@ -1,4 +1,4 @@
-### **Deployed Link : https://task-accuknox.netlify.app](https://tranquil-jelly-b16f66.netlify.app/**
+### **Deployed Link : https://tranquil-jelly-b16f66.netlify.app/**
 
 
 
