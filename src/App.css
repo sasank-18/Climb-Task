@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.UserForm::-webkit-scrollbar {
+  width: 3px;
+  border-radius: 100px;
+  
+}
+
+/* Track */
+.UserForm::-webkit-scrollbar-track {
+  border-radius: 100px;
+}
+
+/* Handle */
+.UserForm::-webkit-scrollbar-thumb {
+  @apply bg-black;
+}
